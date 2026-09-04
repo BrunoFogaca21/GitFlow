@@ -2,4 +2,4 @@ Declarações de variáveis - Testes ok
 Leitura das entradas do programa - Testes ok
 Criação da função Soma - Testes ok
 Criação da subtração - Testes ok
-Criação das funções multiplicação e divisão
+Criação das funções multiplicação e divisão - Testes ok
